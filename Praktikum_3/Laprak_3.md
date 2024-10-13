@@ -8,7 +8,7 @@
 ![Nomor 3 part 2](https://github.com/user-attachments/assets/fb6d1ccd-d0a4-493f-8b37-5d70b45964de)
 
 #### Source Code
-```
+```go
 package main
 import ("fmt")
 func selisih(a, b float64) float64{
@@ -42,7 +42,7 @@ func main (){
 ![Nomor 4](https://github.com/user-attachments/assets/93585c60-f5c6-4bc6-98f6-ba245e6ef152)
 
 #### Source Code
-```
+```go
 package main
 
 import (
