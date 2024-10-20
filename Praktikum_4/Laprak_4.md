@@ -1,4 +1,4 @@
-![Soal Nomor 2 Modul 3](https://github.com/user-attachments/assets/5068939d-8567-4f5e-a68e-db332c238f26)# <h1 align="center">Laporan Praktikum Alpro 2</h1>
+# <h1 align="center">Laporan Praktikum Alpro 2</h1>
 <p align="center">Arvel Mahsa Athallah Firdaus/2311102188/IF-11-01</p>
 
 ## Latihan Soal Modul 3 (Fungsi)
