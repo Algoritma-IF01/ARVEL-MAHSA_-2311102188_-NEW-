@@ -221,7 +221,7 @@ func hitungSkor(soal_dikerjakan *int, score *int) {
  // Array untuk menampung nominal soal
  jumlahSoal := []int{s1, s2, s3, s4, s5, s6, s7, s8}
 
- // Perulangan untuk mendeteksi jika nominal jika tidak melebihi 301, maka akan terhitung
+ // Perulangan untuk mendeteksi jika nominal tidak melebihi 301, maka akan terhitung
  // mengerjakan 1 soal
  for a := 0; a < 8; a++ {
   if jumlahSoal[a] < 301 {
